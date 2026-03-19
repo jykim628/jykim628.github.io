@@ -10,20 +10,20 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* **Ph.D.**, Pusan National University, Korea. **2026**
+-----
+* Ph.D., Pusan National University, Korea. 2026
   * (Advisor: Prof. Joonkyung Jang)
-* **B.S.**, Pusan National University, Korea. **2019**
+* B.S., Pusan National University, Korea. 2019
 
 <br>
 
 Work experience
-======
-* **Research Associate**, Pusan National University, Korea. **Mar. 2026-**
+-----
+* Research Associate, Pusan National University, Korea. Mar. 2026-
   * Serving as a Technical Research Personnel (Alternative Military Service)
   * Deriving machine learning collective variables (ML-CVs) for rare-event sampling
 
-* **Graduate Research Assistant**, Pusan National University, Korea. **Sep. 2019-Feb.2026**
+* Graduate Research Assistant, Pusan National University, Korea. Sep. 2019-Feb.2026
   * ABCDE
 
 <br>
