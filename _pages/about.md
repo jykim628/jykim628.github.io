@@ -13,6 +13,7 @@ I am a computational chemist specializing in atomistic molecular dynamics simula
 
 <div style="margin-bottom: 30px;"></div>
 
-If you are interested in my publications, please visit Publications tab.
+If you are interested in my publications, please visit [Publications]({{ base_path }}/publications/) tab.
 
 <div style="margin-bottom: 30px;"></div>
+
