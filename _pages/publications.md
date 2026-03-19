@@ -13,7 +13,7 @@ author_profile: true
 
 Published
 -----
-[6] **J Kim**, S Choi, K Kim, S Chung, J Jang*. “Molecular dynamics underlying the regulation of a gas hydrate by amylose”. Journal of Molecular Liquids. 437 (2025): 128687 [(PDF)]({{ base_path }}/files/006_2025Kim-Molecular dynamics underlying the regulation of a gas hydrate by amylose.pdf))
+[6] **J Kim**, S Choi, K Kim, S Chung, J Jang*. “Molecular dynamics underlying the regulation of a gas hydrate by amylose”. Journal of Molecular Liquids. 437 (2025): 128687 [(PDF)]({{ base_path }}/files/006_2025Kim-Molecular dynamics underlying the regulation of a gas hydrate by amylose.pdf)
 
 <div style="margin-bottom: 10px;"></div>
 
