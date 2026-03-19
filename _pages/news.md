@@ -21,7 +21,7 @@ Presented a poster on "Computational Approach to the Identification of Visfatin-
 
 February 2025
 -----
-Short-term research visit to Stevens Institute of Technology: Met with < a href="https://www.nanocipher.org/" target="_blank">Prof. Jacob R. Gissinger</a>, and explored reactive MD using REACTER protocol for polymer dynamics.
+Short-term research visit to Stevens Institute of Technology: Met with <a href="https://www.nanocipher.org/" target="_blank">Prof. Jacob R. Gissinger</a>, and explored reactive MD using REACTER protocol for polymer dynamics.
 
 <div style="margin-bottom: 10px;"></div>
 
