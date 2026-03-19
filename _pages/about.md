@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of Jaeyoung Kim's webiste.
+I am a computational chemist specializing in atomistic molecular dynamics simulations and free energy analysis of complex molecular systems. My research focuses on leveraging computational approaches to characterize conformational heterogeneity and quantify binding energetics in biomolecular systmes.
