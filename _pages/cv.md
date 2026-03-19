@@ -23,6 +23,8 @@ Work experience
   * Serving as a Technical Research Personnel (Alternative Military Service)
   * Deriving machine learning collective variables (ML-CVs) for rare-event sampling
 
+<div style="margin-bottom: 10px;"></div>
+
 * Graduate Research Assistant, Pusan National University, Korea. Sep. 2019-Feb.2026
   * ABCDE
 
