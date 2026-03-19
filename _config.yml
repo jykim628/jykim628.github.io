@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Jaeyoung Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Research Associate"
+  bio              : "Computational Chemist/Biophysics"
   location         : "Busan, South Korea"
   employer         : "Pusan National University, Korea"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=LRWXgzgAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-3592-2932"
+  #orcid            : "https://orcid.org/0000-0002-3592-2932"
   semantic         : # URL
   ssrn             : # URL
   #pubmed           : # URL
