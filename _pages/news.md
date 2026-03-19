@@ -21,11 +21,11 @@ Presented a poster on "Computational Approach to the Identification of Visfatin-
 
 February 2025
 -----
-Short-term research visit to Stevens Institute of Technology: Met with [Prof. Jacob R. Gissinger](https://www.nanocipher.org/), and explored reactive MD using REACTER protocol for polymer dynamics.
+Short-term research visit to Stevens Institute of Technology: Met with < a href="https://www.nanocipher.org/" target="_blank">Prof. Jacob R. Gissinger</a>, and explored reactive MD using REACTER protocol for polymer dynamics.
 
 <div style="margin-bottom: 10px;"></div>
 
-Short-term research visit to UC Davis: Met with [Prof. Surl-Hee (Shirley) Ahn](https://www.sahnlab.com/home), and gain technical insights into advanced enhanced sampling methods (WE and ParGaMD) for MD simulations.
+Short-term research visit to UC Davis: Met with <a href="https://www.sahnlab.com/home" target="_blank">Prof. Surl-Hee (Shirley) Ahn</a>, and gain technical insights into advanced enhanced sampling methods (WE and ParGaMD) for MD simulations.
 
 <div style="margin-bottom: 20px;"></div>
 
