@@ -13,6 +13,7 @@ Ongoing Works
 
 <div style="margin-bottom: 20px;"></div>
 
-Previous Works
+Past Research Experience
 -----
-* Content 1
+* Past Research 1
+* Past Research 2
