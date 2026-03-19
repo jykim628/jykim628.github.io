@@ -9,3 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+December 2025
+-----
+Presented a poster on "" at the PacifiChem2025, Honolulu
+
+<div style="margin-bottom: 20px;"></div>
