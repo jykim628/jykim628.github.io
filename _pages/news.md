@@ -25,7 +25,7 @@ Short-term research visit to Stevens Institute of Technology: Met with <a href="
 
 <div style="margin-bottom: 10px;"></div>
 
-Short-term research visit to UC Davis: Met with [Prof. Surl-Hee (Shirley) Ahn](https://www.sahnlab.com/home){:target="_blank"}, and gain technical insights into advanced enhanced sampling methods (WE and ParGaMD) for MD simulations.
+Short-term research visit to UC Davis: Met with <a href="https://www.sahnlab.com/home" target="_blank">Prof. Surl-Hee (Shirley) Ahn</a>, and gain technical insights into advanced enhanced sampling methods (WE and ParGaMD) for MD simulations.
 
 <div style="margin-bottom: 20px;"></div>
 
