@@ -1,14 +1,3 @@
----
-layout: archive
-title: "Jaeyoung Kim, Ph.D."
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 Education
 -----
 * Ph.D., Pusan National University, Korea, 2026 <br> Advisor: Prof. Joonkyung Jang
