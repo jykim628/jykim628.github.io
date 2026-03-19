@@ -7,13 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-Ongoing Works
------
-* Deriving machine learning collective variables (ML-CVs) for hydrate nucleation simulation
+## Ongoing Works
+---
+{% for post in site.research %}
+  {% if post.status == "ongoing" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
-<div style="margin-bottom: 20px;"></div>
+<div style="margin-bottom: 50px;"></div>
 
-Past Research Experience
------
-* Past Research 1
-* Past Research 2
+## Previous Research
+---
+{% for post in site.research %}
+  {% if post.status == "previous" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
