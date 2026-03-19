@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Research Item Number 1"
 excerpt: "Short description of research item number 1<br/><img src='/images/500x300.png'>"
 status: previous
