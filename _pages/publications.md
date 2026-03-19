@@ -17,23 +17,24 @@ Published
 
 <div style="margin-bottom: 10px;"></div>
 
-[5] **J Kim**, S Choi, K Kim, K Byun, J Jang*. “Extracting the Size Distribution of Gold Nanoparticles from UV-Visible Spectrum: an Artificial Neural Network Model”. Journal of Korean Chemical Society. 69.5 (2025): 219-224
+[5] **J Kim**, S Choi, K Kim, K Byun, J Jang*. “Extracting the Size Distribution of Gold Nanoparticles from UV-Visible Spectrum: an Artificial Neural Network Model”. Journal of Korean Chemical Society. 69.5 (2025): 219-224 <a href="{{ base_path }}/files/005_2025Kim-Extracting the Size Distribution of Gold Nanoparticles from UV-Visible Spectrum an Artificial Neural Network Model.pdf" target="_blank">(PDF)</a>
 
 <div style="margin-bottom: 10px;"></div>
 
-[4] M Zhao, **J Kim**, C Guo*, J Jang*. “Distinct Mechanisms for the Underwater Adhesions of Pvfp-5β and Mfp-5: A comparative All-Atom Molecular Dynamics Study”. Surfaces and Interfaces. 58.1 (2025): 105847
+[4] M Zhao, **J Kim**, C Guo*, J Jang*. “Distinct Mechanisms for the Underwater Adhesions of Pvfp-5β and Mfp-5: A comparative All-Atom Molecular Dynamics Study”. Surfaces and Interfaces. 58.1 (2025): 105847 <a href="{{ base_path }}/files/004_2025Zhao-Distinct mechanisms for the underwater adhesions of Pvfp-5b and Mfp-5.pdf" target="_blank">(PDF)</a>
+
 
 <div style="margin-bottom: 10px;"></div>
 
-[3] A Lakkadi, S Vuppala, V Nampally, **J Kim**, K Kim, J Jang*, P Tigulla*. “Development of novel chromones as antioxidant COX2 inhibitors: in vitro, QSAR, DFT, molecular docking, and molecular dynamics studies”. Journal of Biomolecular Structure and Dynamics. 42.6 (2024): 2793-2808
+[3] A Lakkadi, S Vuppala, V Nampally, **J Kim**, K Kim, J Jang*, P Tigulla*. “Development of novel chromones as antioxidant COX2 inhibitors: in vitro, QSAR, DFT, molecular docking, and molecular dynamics studies”. Journal of Biomolecular Structure and Dynamics. 42.6 (2024): 2793-2808 <a href="{{ base_path }}/files/003_2024Lakkadi-Development of novel chromones as antioxidant COX2 inhibitors.pdf" target="_blank">(PDF)</a>
 
 <div style="margin-bottom: 10px;"></div>
 
-[2]	JM Choi, S Vuppala, MJ Park, **J Kim**, ME Jegal, YS Han, YJ Kim, J Jang*, MH Jeong*, BS Joo*. “Computer simulation approach to the identification of visfatin-derived angiogenic peptides”. Plos one, 18.6 (2023): e0287577
+[2]	JM Choi, S Vuppala, MJ Park, **J Kim**, ME Jegal, YS Han, YJ Kim, J Jang*, MH Jeong*, BS Joo*. “Computer simulation approach to the identification of visfatin-derived angiogenic peptides”. Plos one, 18.6 (2023): e0287577 <a href="{{ base_path }}/files/002_2023Choi-Computer simulation approach to the identification of visfatin-derived angiogenic peptides.pdf" target="_blank">(PDF)</a>
 
 <div style="margin-bottom: 10px;"></div>
 
-[1] S Vuppala, **J Kim**, BS Joo*, JM Choi, J Jang*. “A Combination of Pharmacophore-Based Virtual Screening, Structure-Based Lead Optimization, and DFT Study for the Identification of S. epidermidis TcaR Inhibitors”. Pharmaceuticals. 15.5 (2022): 635
+[1] S Vuppala, **J Kim**, BS Joo*, JM Choi, J Jang*. “A Combination of Pharmacophore-Based Virtual Screening, Structure-Based Lead Optimization, and DFT Study for the Identification of S. epidermidis TcaR Inhibitors”. Pharmaceuticals. 15.5 (2022): 635 <a href="{{ base_path }}/files/001_2022Vuppala-A Combination of Pharmacophore-Based Virtual Screening~.pdf" target="_blank">(PDF)</a>
 
 <div style="margin-bottom: 30px;"></div>
 
