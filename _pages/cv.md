@@ -15,6 +15,7 @@ Education
   * (Advisor: Prof. Joonkyung Jang)
 * **B.S.**, Pusan National University, Korea. **2019**
 
+<br>
 
 Work experience
 ======
@@ -24,6 +25,8 @@ Work experience
 
 * **Graduate Research Assistant**, Pusan National University, Korea. **Sep. 2019-Feb.2026**
   * ABCDE
+
+<br>
 
 Skills
 ======
