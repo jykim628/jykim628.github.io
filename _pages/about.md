@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages of Jaeyoung Kim"
+title: "Welcome to Academic Pages of Jaeyoung Kim"
 author_profile: true
 redirect_from: 
   - /about/
