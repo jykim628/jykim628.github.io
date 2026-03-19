@@ -15,7 +15,7 @@ Education
   * (Advisor: Prof. Joonkyung Jang)
 * B.S., Pusan National University, Korea. 2019
 
-<br>
+<div style="margin-bottom: 20px;"></div>
 
 Work experience
 -----
@@ -28,7 +28,7 @@ Work experience
 * Graduate Research Assistant, Pusan National University, Korea. Sep. 2019-Feb.2026
   * ABCDE
 
-<br>
+<div style="margin-bottom: 20px;"></div>
 
 Skills
 -----
@@ -39,12 +39,16 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+<div style="margin-bottom: 20px;"></div>
+
 Publications
 -----
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<div style="margin-bottom: 20px;"></div>
+
 Conferences
 -----
   <ul>{% for post in site.talks reversed %}
