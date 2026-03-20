@@ -9,7 +9,7 @@ author_profile: true
 
 February 2026
 -----
-I officially received my doctoral degree from Pusan National University, Korea. I am sincerely greatful to <a href="https://nanochem.pusan.ac.kr/nanochem/index.do" target="_blank">Prof. Joonkyung Jang</a> and my colleagues for their support and guidance.
+I officially received my doctoral degree from Pusan National University, Korea. I am sincerely grateful to <a href="https://nanochem.pusan.ac.kr/nanochem/index.do" target="_blank">Prof. Joonkyung Jang</a> and my colleagues for their support and guidance.
 
 <div style="margin-bottom: 20px;"></div>
 
