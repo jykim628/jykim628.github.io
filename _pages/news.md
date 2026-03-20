@@ -11,6 +11,10 @@ February 2026
 -----
 I officially received my doctoral degree from Pusan National University, Korea. I am sincerely grateful to <a href="https://nanochem.pusan.ac.kr/nanochem/index.do" target="_blank">Prof. Joonkyung Jang</a> and my colleagues for their support and guidance.
 
+<div style="margin-bottom: 10px;"></div>
+
+Following my graduation, I am continuing my research career as a Research Associate in the same group (March 2026 - ), where I will further advance my work on deriving machine learning collective variables (ML-CVs) for hydrate nucleation simulation.
+
 <div style="margin-bottom: 20px;"></div>
 
 December 2025
