@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Machine Learning CVs for Hydrate Simulations"
-excerpt: "Short description of research item number 3<br/><img src='/images/Research_03.png' width='80%'>"
+excerpt: "Deriving machine learning-based collective variables (DeepLDA or SPIB) to accelerate gas hydrate nucleation simulations.<br/><img src='/images/Research_03.png' width='80%'>"
 status: ongoing
 collection: research
 author_profile: true
