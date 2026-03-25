@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Item Number 2"
+title: "Computational Design and Optimization of Visfatin-Derived Therapeutic Peptides"
 excerpt: "Short description of research item number 2<br/><img src='/images/500x300.png'>"
 status: ongoing
 collection: research
