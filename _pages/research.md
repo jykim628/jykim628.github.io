@@ -15,7 +15,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<div style="margin-bottom: 80px;"></div>
+<div style="margin-bottom: 120px;"></div>
 
 ## Previous Research
 ---
