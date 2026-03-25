@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Computational Design and Optimization of Visfatin-Derived Therapeutic Peptides"
-excerpt: "Short description of research item number 2<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of research item number 2<br/><img src='/images/500x300.png' width='80%'>"
 status: previous
 collection: research
 author_profile: true
