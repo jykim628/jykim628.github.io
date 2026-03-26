@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 -----
-* **Ph.D.**, Pusan National University, Korea, 2026 <br> Advisor: Prof. Joonkyung Jang
-* **B.S.**, Pusan National University, Korea, 2019
+* **Ph.D.**, Pusan National University, Korea, Feb. 2026 <br> Advisor: Prof. Joonkyung Jang
+* **B.S.**, Pusan National University, Korea, Aug. 2019
 
 <div style="margin-bottom: 20px;"></div>
 
