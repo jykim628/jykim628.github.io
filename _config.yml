@@ -23,7 +23,7 @@ repository               : #"https://github.com/jykim628/academicpages.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "202512_PacifiChem2025EntranceCrop.png"
   name             : "Jaeyoung Kim"
   pronouns         : #"he/him"  
   bio              : "Ph.D., Computational Chemistry/Biophysics"
