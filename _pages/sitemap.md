@@ -13,4 +13,4 @@ Below is a structured overview of the content available on this website.
 * **[Home]({{ base_path }}/)**: Brief introduction and research overview.
 * **[News]({{ base_path }}/news/)**: Recent updates, research visits, and conference presentations.
 * **[Publications]({{ base_path }}/publications/)**: A complete list of peer-reviewed journal articles.
-* **[CV]({{ base_path }}/cv/)**: Detailed academic background, research experience.
+* **[CV]({{ base_path }}/cv/)**: Detailed academic background, work experience.
