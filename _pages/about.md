@@ -10,10 +10,10 @@ redirect_from:
 <div style="margin-bottom: 30px;"></div>
 
 <div style="text-align: center; margin: 40px 0; color: #555;">
-  <p style="font-size: 1.1em;">
+  <p style="font-size: 1.1em; margin-bottom: 5px">
     <em>"Genius is nothing but a greater aptitude for patience."</em>
   </p>
-  <p><strong>- Benjamin Franklin</strong></p>
+  <p style="margin-top: 0; font-weight: bold;">- Benjamin Franklin</p>
 </div>
 
 <div style="margin-bottom: 30px;"></div>
