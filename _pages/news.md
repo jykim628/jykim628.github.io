@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- February 2026 -->
+
 February 2026
 -----
 I officially received my doctoral degree from Pusan National University, Korea. I am sincerely grateful to <a href="https://nanochem.pusan.ac.kr/nanochem/index.do" target="_blank">Prof. Joonkyung Jang</a> and my colleagues for their support and guidance.
@@ -17,17 +19,37 @@ Following my graduation, I am continuing my research career as a Research Associ
 
 <div style="margin-bottom: 20px;"></div>
 
+<!-- December 2025 -->
+
 December 2025
 -----
 Presented a poster on "Computational Approach to the Identification of Visfatin-Derived Angiogenic Peptides" at the PacifiChem2025, Honolulu, USA.
 
+<div style="text-align: center;">
+  <img src="{{ base_path }}/images/news/202512_PacifiChem2025.png" width="40%"></div>
+
 <div style="margin-bottom: 20px;"></div>
+
+<!-- November 2025 -->
+
+November 2025
+-----
+I successfully defended my doctoral dissertation at Pusan National University, Korea.
+
+<div style="text-align: center;">
+  <img src="{{ base_path }}/images/news/202511_Defense_1.png" width="40%"></div>
+
+<div style="margin-bottom: 20px;"></div>
+
+<!-- May 2025 -->
 
 May 2025
 -----
 Presented a poster on "Computational Approach to the Identification of Visfatin-Derived Angiogenic Peptides" at the 2025 GCSC Symposium: Chemical Dynamics in Materials and Living Systems, Seoul, Korea.
 
 <div style="margin-bottom: 20px;"></div>
+
+<!-- February 2025 -->
 
 February 2025
 -----
@@ -39,17 +61,29 @@ Short-term research visit to UC Davis: Met with <a href="https://www.sahnlab.com
 
 <div style="margin-bottom: 20px;"></div>
 
+<!-- July 2024 -->
+
 July 2024
 -----
 Presented a poster on "Molecular Dynamics Simulation of Visfatin-Derived Small Peptide with Angiogenic Activity" at the International Workshop on New Advances in Theoretical and Computational Molecular Sciences for Complex and Quantum Processes (TMCQ2024), Seoul, Korea
 
+<div style="text-align: center;">
+  <img src="{{ base_path }}/images/news/202407_TMCQ2024.png" width="40%"></div>
+
 <div style="margin-bottom: 20px;"></div>
+
+<!-- June 2024 -->
 
 June 2024
 -----
 Presented a poster on "Molecular Dynamics Simulation on the Growth of Methane Hydrate in the Presence of Amylose" at the 2024 Korea-Japan Symposium on Molecular Science, Busan, Korea.
 
+<div style="text-align: center;">
+  <img src="{{ base_path }}/images/news/202406_KCSPhysChem.png" width="40%"></div>
+
 <div style="margin-bottom: 20px;"></div>
+
+<!-- February 2024 -->
 
 February 2024
 -----
@@ -57,14 +91,24 @@ Short-term research visit to Suzhou University of Science and Technology, China:
 
 <div style="margin-bottom: 20px;"></div>
 
+<!-- November 2023 -->
+
 November 2023
 -----
 Presented a poster on "Computer-Aided Design of Visfatin-Derived Small Peptides with Angiogenic Activity" at the 5th International Conference Conference on Nanomedicine of China (ChinaNanomedicine 2023), Guangzhou, China. 
 
+<div style="text-align: center;">
+  <img src="{{ base_path }}/images/news/202311_ChinaNanomedicine2023.png" width="40%"></div>
+
 <div style="margin-bottom: 20px;"></div>
+
+<!-- August 2023 -->
 
 August 2023
 -----
 Presented a poster on "Molecular Dynamics Study of Characterization in Acrylic Pressure-Sensitive Adhesives" at the International Conference on Soft Matter (ICSM 2023), Seoul, Korea. 
+
+<div style="text-align: center;">
+  <img src="{{ base_path }}/images/news/202308_ICSM2023.png" width="40%"></div>
 
 <div style="margin-bottom: 20px;"></div>
