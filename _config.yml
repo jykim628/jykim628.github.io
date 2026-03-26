@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jaeyoung Kim"
-  pronouns         : # example: "she/her"  
-  bio              : "Computational Chemistry/Biophysics"
+  pronouns         : #"he/him"  
+  bio              : "Ph.D., Computational Chemistry/Biophysics"
   location         : "Busan, South Korea"
   employer         : "Pusan National University, Korea"
   uri              : # URL
