@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the personal website of Jaeyoung Kim!"
+title: "Welcome to my personal website!"
 author_profile: true
 redirect_from: 
   - /about/
