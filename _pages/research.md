@@ -24,3 +24,13 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+
+<div style="margin-bottom: 120px;"></div>
+
+## Side Projects
+---
+{% for post in site.research %}
+  {% if post.status == "sideproject" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
