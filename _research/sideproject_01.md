@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Machine Learning CVs for Hydrate Simulations"
-excerpt: "Deriving machine learning-based collective variables (DeepLDA or SPIB) to accelerate gas hydrate nucleation simulations.<br/><img src='/images/500x300.png' width='40%'>"
+title: "Mechanical Properties of Pressure Sensitive Adhesives"
+excerpt: "Investigating the mechanical properties of pressure sensitive adhesives using all-atom MD simulations.<br/><img src='/images/500x300.png' width='40%'>"
 status: sideproject
 collection: research
 author_profile: true
