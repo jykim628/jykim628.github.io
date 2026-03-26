@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="margin-bottom: 30px;"></div>
 
-<div style="text-align: center; margin: 40px 0; color: #555;">
+<div style="text-align: center; margin: 40px 0;">
   <p style="font-size: 1.1em; margin-bottom: 5px">
     <em>"Genius is nothing but a greater aptitude for patience."</em>
   </p>
