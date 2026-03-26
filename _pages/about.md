@@ -9,6 +9,15 @@ redirect_from:
 
 <div style="margin-bottom: 30px;"></div>
 
+<div style="text-align: center; margin: 40px 0; color: #555;">
+  <p style="font-size: 1.1em;">
+    <em>"Genius is nothing but a greater aptitude for patience."</em>
+  </p>
+  <p><strong>- Benjamin Franklin</strong></p>
+</div>
+
+<div style="margin-bottom: 30px;"></div>
+
 I am a computational chemist specializing in atomistic molecular dynamics simulations and free energy analysis of complex molecular systems. My research focuses on leveraging computational approaches to characterize conformational heterogeneity and quantify binding energetics in biomolecular systmes.
 
 <div style="margin-bottom: 30px;"></div>
@@ -20,4 +29,7 @@ Below is a structured overview of the content available on this website.
 * [CV]({{ base_path }}/cv/): Detailed academic background, research experience.
 
 <div style="margin-bottom: 30px;"></div>
+
+
+
 
