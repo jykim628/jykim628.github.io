@@ -37,7 +37,7 @@ November 2025
 I successfully defended my doctoral dissertation at Pusan National University, Korea.
 
 <div style="text-align: center;">
-  <img src="{{ base_path }}/images/news/202511_Defense_1.png" width="40%"></div>
+  <img src="{{ base_path }}/images/news/202511_Defense_1.png" width="60%"></div>
 
 <div style="margin-bottom: 20px;"></div>
 
@@ -59,6 +59,11 @@ Short-term research visit to Stevens Institute of Technology: Met with <a href="
 
 Short-term research visit to UC Davis: Met with <a href="https://www.sahnlab.com/home" target="_blank">Prof. Surl-Hee (Shirley) Ahn</a>, and gain technical insights into advanced enhanced sampling methods (WE and ParGaMD) for MD simulations.
 
+<div style="text-align: center;">
+  <img src="{{ base_path }}/images/news/202502_UCDavis.jpg" width="60%">
+  <p style="font-size: 0.75em; margin-top: 5px"><em>with Prof. Surl-Hee (Shirley) Ahn's group</em></p>
+</div>
+
 <div style="margin-bottom: 20px;"></div>
 
 <!-- July 2024 -->
@@ -79,7 +84,7 @@ June 2024
 Presented a poster on "Molecular Dynamics Simulation on the Growth of Methane Hydrate in the Presence of Amylose" at the 2024 Korea-Japan Symposium on Molecular Science, Busan, Korea.
 
 <div style="text-align: center;">
-  <img src="{{ base_path }}/images/news/202406_KCSPhysChem.png" width="40%"></div>
+  <img src="{{ base_path }}/images/news/202406_KCSPhysChem.png" width="60%"></div>
 
 <div style="margin-bottom: 20px;"></div>
 
