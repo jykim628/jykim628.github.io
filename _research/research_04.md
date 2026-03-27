@@ -11,7 +11,7 @@ author_profile: true
 
 Motivation
 -----
-Short Motivation
+Motivation
 
 <div style="margin-bottom: 20px;"></div>
 
