@@ -15,12 +15,6 @@ Short Motivation
 
 <div style="margin-bottom: 20px;"></div>
 
-Methods
+Objectives
 -----
-Methods
-
-<div style="margin-bottom: 20px;"></div>
-
-Key Results
------
-Results
+Objectives
