@@ -24,3 +24,8 @@ Methods
 Key Results
 -----
 Results
+
+<div style="margin-bottom: 50px;"></div>
+
+<div style="margin-top: 40px;">
+  <a href="{{ base_path }}/research/">← Back to Research List</a></div>
