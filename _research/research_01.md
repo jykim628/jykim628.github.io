@@ -23,7 +23,7 @@ Based on this dataset, I developed an artificial neural network (ANN) model that
 
 <div style="text-align: center;">
   <img src="{{ base_path }}/images/research/Research_01_Fig1.png" width="50%">
-  <p style="font-size: 0.85em; margin-top: 5px">Figure. Architecture of the ANN model.</p>
+  <p style="font-size: 0.85em; margin-top: 5px">Figure 1. Architecture of the ANN model.</p>
 </div>
 
 <div style="margin-bottom: 20px;"></div>
@@ -38,7 +38,7 @@ Key Results
 
 <div style="text-align: center;">
   <img src="{{ base_path }}/images/research/Research_01_Fig2.png" width="40%">
-  <p style="font-size: 0.85em; margin-top: 5px">Figure. Comparison of predicted and experimental mean diameters.</p>
+  <p style="font-size: 0.85em; margin-top: 5px">Figure 2. Comparison of predicted and experimental mean diameters.</p>
 </div>
 
 <div style="margin-bottom: 50px;"></div>
