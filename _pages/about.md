@@ -18,7 +18,11 @@ redirect_from:
 
 <div style="margin-bottom: 30px;"></div>
 
-I am a computational chemist specializing in atomistic molecular dynamics simulations and free energy analysis of complex molecular systems. My research focuses on leveraging computational approaches to characterize conformational heterogeneity and quantify binding energetics in biomolecular systmes.
+I am a computational chemist specializing in **atomistic molecular dynamics simulations** and **free energy analysis** of complex molecular systems. My research focuses on leveraging computational approaches to characterize conformational heterogeneity and quantify binding energetics in biomolecular systems.
+
+<div style="margin-bottom: 20px;"></div>
+
+📢 I am currently seeking **postdoctoral opportunities starting from March 2027**. My research interests lie in the intersection of MD simulations and Machine Learning.
 
 <div style="margin-bottom: 30px;"></div>
 
