@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Mechanical Properties of Pressure Sensitive Adhesives"
-excerpt: "Investigating the mechanical properties of pressure sensitive adhesives using all-atom MD simulations.<br/><img src='/images/500x300.png' width='40%'>"
+excerpt: "Investigating the mechanical properties of pressure sensitive adhesives using all-atom MD simulations.<br/><img src='/images/research/Sideproject_01.png' width='100%'>"
 status: sideproject
 collection: research
 author_profile: true
