@@ -15,7 +15,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<div style="margin-bottom: 120px;"></div>
+<div style="margin-bottom: 100px;"></div>
 
 ## Previous Research
 ---
@@ -25,7 +25,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<div style="margin-bottom: 120px;"></div>
+<div style="margin-bottom: 100px;"></div>
 
 ## Side Projects
 ---
