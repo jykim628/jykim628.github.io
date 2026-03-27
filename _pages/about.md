@@ -9,24 +9,19 @@ redirect_from:
 
 <div style="margin-bottom: 30px;"></div>
 
-<div style="text-align: center; margin: 40px 0;">
-  <p style="font-size: 1.1em; margin-bottom: 5px">
-    <em>"Genius is nothing but a greater aptitude for patience."</em>
-  </p>
-  <p style="margin-top: 0; font-weight: bold;">- Benjamin Franklin</p>
-</div>
-
-<div style="margin-bottom: 30px;"></div>
-
-I am a computational chemist specializing in **atomistic molecular dynamics simulations** and **free energy analysis** of complex molecular systems. My research focuses on leveraging computational approaches to characterize conformational heterogeneity and quantify binding energetics in biomolecular systems.
+📢 I am currently seeking **postdoctoral opportunities starting in March 2027**.
 
 <div style="margin-bottom: 20px;"></div>
 
-📢 I am currently seeking **postdoctoral opportunities starting from March 2027**. My research interests lie in the intersection of MD simulations and Machine Learning.
+I am a computational chemist specializing in **atomistic molecular dynamics simulations** and **free energy analysis** of complex molecular systems. My research focuses on understanding conformational heterogeneity, rare events, and molecular recognition in biomolecular systems through physically interpretable computational models.
+
+<div style="margin-bottom: 20px;"></div>
+
+Inspired by the parable of the blind men and the elephant, I view complex molecular systems as collections of partial observations rather than a single, fully accessible truth. In molecular simulations, different descriptors often capture only limited aspects of a system, and no single perspective is sufficient to describe the whole picture.
 
 <div style="margin-bottom: 30px;"></div>
 
-Below is a structured overview of the content available on this website.  
+You can find more information about my research and academic background in the sections below.
 * [Research]({{ base_path }}/research/): Summary of ongoing works and previous research.
 * [Publications]({{ base_path }}/publications/): A complete list of peer-reviewed journal articles.
 * [News]({{ base_path }}/news/): Recent updates, research visits, and conference presentations.
@@ -34,6 +29,12 @@ Below is a structured overview of the content available on this website.
 
 <div style="margin-bottom: 30px;"></div>
 
+<div style="text-align: center; margin: 40px 0;">
+  <p style="font-size: 1.1em; margin-bottom: 5px">
+    <em>"Genius is nothing but a greater aptitude for patience."</em>
+  </p>
+  <p style="margin-top: 0; font-weight: bold;">- Benjamin Franklin</p>
+</div>
 
 
 
