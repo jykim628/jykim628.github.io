@@ -9,32 +9,31 @@ redirect_from:
 
 <div style="margin-bottom: 30px;"></div>
 
-📢 I am currently seeking **postdoctoral opportunities starting in March 2027**.
+📢 *I am currently seeking **postdoctoral opportunities starting in March 2027**.*
+<br>My research interests lie at the intersection of molecular dynamics simulations and machine learning.
 
 <div style="margin-bottom: 20px;"></div>
 
-I am a computational chemist specializing in **atomistic molecular dynamics simulations** and **free energy analysis** of complex molecular systems. My research focuses on understanding conformational heterogeneity, rare events, and molecular recognition in biomolecular systems through physically interpretable computational models.
+I am a computational chemist specializing in **atomistic molecular dynamics simulations**, **enhanced sampling**, and **free energy analysis** of complex molecular systems. My research focuses on understanding conformational heterogeneity, rare events, and molecular recognition in biomolecular systems through physically interpretable computational models.
 
 <div style="margin-bottom: 20px;"></div>
 
 Inspired by the parable of the blind men and the elephant, I view complex molecular systems as collections of partial observations rather than a single, fully accessible truth. In molecular simulations, different descriptors often capture only limited aspects of a system, and no single perspective is sufficient to describe the whole picture.
 
-<div style="margin-bottom: 30px;"></div>
+<div style="margin-bottom: 40px;"></div>
 
 You can find more information about my research and academic background in the sections below.
-* [Research]({{ base_path }}/research/): Summary of ongoing works and previous research.
-* [Publications]({{ base_path }}/publications/): A complete list of peer-reviewed journal articles.
-* [News]({{ base_path }}/news/): Recent updates, research visits, and conference presentations.
-* [CV]({{ base_path }}/cv/): Detailed academic background, work experience.
+* **[Research]({{ base_path }}/research/)**: Summary of ongoing works and previous research.
+* **[Publications]({{ base_path }}/publications/)**: A complete list of peer-reviewed journal articles.
+* **[News]({{ base_path }}/news/)**: Recent updates, research visits, and conference presentations.
+* **[CV]({{ base_path }}/cv/)**: Detailed academic background, work experience.
 
-<div style="margin-bottom: 30px;"></div>
+<div style="margin-bottom: 40px;"></div>
 
 <div style="text-align: center; margin: 40px 0;">
-  <p style="font-size: 1.1em; margin-bottom: 5px">
+  <p style="font-size: 1.0em; margin-bottom: 5px">
     <em>"Genius is nothing but a greater aptitude for patience."</em>
   </p>
-  <p style="margin-top: 0; font-weight: bold;">- Benjamin Franklin</p>
+  <p style="margin-top: 0; font-weight: bold;">— Benjamin Franklin</p>
 </div>
-
-
 
