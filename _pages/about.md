@@ -14,7 +14,7 @@ redirect_from:
 
 <div style="margin-bottom: 20px;"></div>
 
-I am a computational chemist specializing in **atomistic molecular dynamics simulations**, **enhanced sampling**, and **free energy analysis** of complex molecular systems. My research focuses on understanding conformational heterogeneity, rare events, and molecular recognition in biomolecular systems through physically interpretable computational models.
+I am a computational chemist specializing in **atomistic molecular dynamics simulations**, **enhanced sampling**, and **free energy analysis** of complex molecular systems. My research focuses on understanding conformational heterogeneity, ligand binding affinities, and molecular recognition in biomolecular systems through physically interpretable computational models.
 
 <div style="margin-bottom: 20px;"></div>
 Inspired by the parable of the <a href="https://en.wikipedia.org/wiki/Blind_men_and_an_elephant" style="color: inherit; text-decoration: underline;" target="_blank">blind men and the elephant</a>, I view complex molecular systems as collections of partial observations rather than a single, fully accessible truth. In molecular simulations, different descriptors often capture only limited aspects of a system, and no single perspective is sufficient to describe the whole picture.
