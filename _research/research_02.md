@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Computational Design and Optimization of Visfatin-Derived Therapeutic Peptides"
-excerpt: "Designed angiogenic therapeutic peptides derived from visfatin using computational methods, and characterized the protein-peptide interaction using all-atom molecular dynamics simulations.<br/><img src='/images/research/Research_02_2.png' width='100%'>"
+title: "Inhibitory Effect of Amylose on the Growth of Hydrate"
+excerpt: "Investigated the inhibitory mechanism of amylose on methane hydrate growth using 1-μs all-atom molecular dynamics simulation, revealing molecular-level insights into hydrate inhibition.<br/><img src='/images/research/Research_02.png' width='100%'>"
 status: previous
 collection: research
 author_profile: true
@@ -11,56 +11,37 @@ author_profile: true
 
 Motivation
 -----
-Angiogenesis is an essential process for the formation and healing of blood vessels and capillaries, and it plays a critical role in embryogenesis, tissue repair, and organ regeneration. Visfatin, originally identified as pre-B cell colony-enhancing factor (PBEF), has been reported to induce vascular endothelial growth factor (VEGF) production and stimulate angiogenesis, including endothelial cell proliferation and migration. However, its high molecular weight limits its direct therapeutic applicability. To overcome this limitation, we computationally designed visfatin-derived therapeutic peptides that retain the angiogenic activity of visfatin while having a smaller molecular weight.
+Gas hydrates are crystalline water structures that can store gas molecules such as methane. While they are considered potential energy resources, they also pose serious challenges by causing blockages in pipelines. Biodegradable polymers such as starch have been proposed as environmentally friendly hydrate inhibitors. However, whether and how starch regulates hydrate formation remains unclear at the molecular level. In this work, I used all-atom molecular dynamics simulations to investigate the inhibitory role of amylose, a major component of starch, and to uncover the underlying molecular mechanisms.
 
 <div style="margin-bottom: 20px;"></div>
 
 Methods
 -----
-A computational pipeline was employed to design and characterize visfatin-derived peptides.
-
-First, peptide candidates were generated from the active site domain of Visfatin using an overlapping peptide strategy. Molecular docking simulations (GalaxyPepDock and HADDOCK) were then used to screen peptide binding modes and identify high-affinity candidates.
-
-Selected peptide–Visfatin complexes were further investigated using all-atom molecular dynamics simulations with GROMACS to evaluate structural stability and conformational dynamics. Interaction fingerprint analysis was performed to characterize residue-level interactions.
-
-Finally, computational alanine scanning combined with MM/PBSA calculations was used to identify key residues governing peptide binding and quantify their energetic contributions.
+To investigate hydrate growth, I performed all-atom molecular dynamics simulations of methane hydrate formation in the presence of amylose and its modified form (OMet-amylose). A hydrate seed (sI structure) was introduced to model growth, and simulations were carried out under hydrate-forming conditions (250 K, 100 bar) for up to 1 μs. The system was analyzed using structural and dynamical metrics, including hydrate cage counting, order parameters (F4), mean square displacement (MSD), and hydrogen bonding analysis. By comparing amylose and OMet-amylose, I isolated the effects of hydrogen bonding and steric interactions on hydrate growth.
 
 <div style="margin-bottom: 20px;"></div>
 
 Key Results
 -----
-**Peptide Design and Functional Validation**
-- A total of 114 peptides were generated, and 9 candidates with high binding affinity were identified through docking simulations.
-- In vitro assays revealed that two peptides exhibited superior angiogenic activity compared to visfatin.
+- Amylose significantly inhibited hydrate growth, whereas OMet-amylose showed weaker inhibition despite its larger size.
 
 <div style="text-align: center;">
-  <img src="{{ base_path }}/images/research/Research_02_Fig1.png" width="60%">
-  <p style="font-size: 0.85em; margin-top: 5px">Figure 1. In vitro validation of angiogenic activity for visfatin-derived peptides.</p>
+  <img src="{{ base_path }}/images/research/Research_02_Fig1.png" width="75%">
+  <p style="font-size: 0.85em; margin-top: 5px">Figure 1. Growth of methane hydrate in the absence/presence of additive.</p>
 </div>
 
-**Structural Stability and Binding Behavior**
-- MD simulations showed that both peptides form stable complexes with Visfatin, maintaining consistent conformations throughout the simulation.
+- The inhibition mechanism was identified as twofold: (1) hydrogen bonding between amylose and the hydrate surface, and (2) steric hindrance preventing water molecules from accessing the hydrate seed.
+
+- Hydrogen bonding played a dominant role: amylose formed stable H-bond networks and ring-like structures with water, disrupting hydrate cage formation.
 
 <div style="text-align: center;">
-  <img src="{{ base_path }}/images/research/Research_02_Fig2.png" width="75%">
-  <p style="font-size: 0.85em; margin-top: 5px">Figure 2. Structural stability and conformational dynamics of peptide–Visfatin complexes from MD simulations.</p>
+  <img src="{{ base_path }}/images/research/Research_02_Fig2.png" width="35%">
+  <p style="font-size: 0.85em; margin-top: 5px">Figure 2. Ring structures hampering the growth of a hydrate with the amylose molecule.</p>
 </div>
 
-**Interaction Mechanism**
-- Interaction fingerprint analysis revealed persistent residue-level interactions, indicating stable binding interfaces.
+- In contrast, OMet-amylose formed fewer hydrogen bonds and did not induce such structural disruptions, leading to weaker inhibition.
 
-<div style="text-align: center;">
-  <img src="{{ base_path }}/images/research/Research_02_Fig3.png" width="50%">
-  <p style="font-size: 0.85em; margin-top: 5px">Figure 3. Interaction fingerprint analysis showing residue-level interactions between peptides and Visfatin.</p>
-</div>
-
-- Computational alanine scanning identified key residues responsible for binding stability and energetic contributions.
-
-<div style="text-align: center;">
-  <img src="{{ base_path }}/images/research/Research_02_Fig4.png" width="60%">
-  <p style="font-size: 0.85em; margin-top: 5px">Figure 4. Identification of key residues using computational alanine scanning and binding free energy analysis.</p>
-</div>
-
+- Structural (cage count, F4) and dynamical (MSD) analyses consistently showed that amylose most effectively suppressed hydrate growth.
 
 <div style="margin-bottom: 50px;"></div>
 

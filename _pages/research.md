@@ -19,7 +19,8 @@ author_profile: true
 
 ## Previous Research
 ---
-{% for post in site.research %}
+{% assign research_reverse = site.research | reverse %}
+{% for post in research_reverse %}
   {% if post.status == "previous" %}
     {% include archive-single.html %}
   {% endif %}
