@@ -14,7 +14,7 @@ redirect_from:
 
 <div style="margin-bottom: 20px;"></div>
 
-I am a computational chemist specializing in **atomistic molecular dynamics simulations**, **enhanced sampling**, and **free energy analysis** of complex molecular systems. My research focuses on understanding conformational heterogeneity, ligand binding affinities, and molecular recognition in biomolecular systems through physically interpretable computational models.
+I am a computational chemist specializing in **atomistic molecular dynamics simulations**, **enhanced sampling**, and **free energy analysis** of complex molecular systems. My research interests include gas hydrate nucleation and growth, machine learning-assisted rare event sampling, and computational peptide design for biomolecular interactions.
 
 <div style="margin-bottom: 20px;"></div>
 Inspired by the parable of the <a href="https://en.wikipedia.org/wiki/Blind_men_and_an_elephant" style="color: inherit; text-decoration: underline;" target="_blank">blind men and the elephant</a>, I view complex molecular systems as collections of partial observations rather than a single, fully accessible truth. In the face of uncertainty, I trust that my observations capture a meaningful piece of the puzzle, yet I remain humble in knowing that no single perspective describes the whole. I believe that true scientific progress is achieved by bridging the gap between these fragmented insights. By integrating my computational skills with diverse experimental and theoretical perspectives, I am eager to contribute to unifying these pieces into a comprehensive understanding of molecular mechanisms.
