@@ -10,7 +10,7 @@ redirect_from:
 <div style="margin-bottom: 20px;"></div>
 
 📢 *I am currently seeking **postdoctoral opportunities starting in March 2027**.*
-<br>My research interests lie at the intersection of molecular dynamics simulations and machine learning.
+<br>My research lies at the intersection of molecular dynamics simulations and machine learning.
 
 <div style="margin-bottom: 20px;"></div>
 
