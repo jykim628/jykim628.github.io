@@ -23,14 +23,13 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # 박사님 Gemfile의 종속성을 완벽하게 맞추기 위한 환경 세팅
+          ruby-version: '3.1'
           bundle-cache: true
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Build with Jekyll
-        target: github-pages
         run: |
           bundle install
           bundle exec jekyll build --destination ./_site
