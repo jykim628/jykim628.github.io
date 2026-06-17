@@ -7,6 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- June 2026 -->
+
+June 2026
+-----
+Presented a poster on “Study of Machine-Learning-Based Collective Variables for Gas Hydrate Simulations” at the International Workshop on New Advances in Theoretical and Computational Molecular Sciences for Complex and Quantum Processes (TMCQ2026), Seoul, Korea
+
+<div style="text-align: center;">
+  <img src="{{ base_path }}/images/news/202606_TMCQ2026.png" width="40%"></div>
+
+<div style="margin-bottom: 20px;"></div>
+
 <!-- February 2026 -->
 
 February 2026
