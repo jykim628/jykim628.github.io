@@ -13,6 +13,8 @@ author_profile: true
 
 Published
 -----
+[7] F Subhan, K Kim, **J Kim**, G Qin*, L Ali, J Jang*. "van der Waals engineering of the valley polarization in WSe~2~ via the Kagome V~2~O~3~ monolayer heterostructure through magnetic proximity effect". Journal of Materials Chemistry C. (2026) <a href="{{ base_path }}/files/007_2026Subhan-van der Waals engineering of the valley polarization in WSe2 via the Kagome V2O3 monolayer.pdf" target="_blank">(PDF)</a>
+
 [6] **J Kim**, S Choi, K Kim, S Chung, J Jang*. “Molecular dynamics underlying the regulation of a gas hydrate by amylose”. Journal of Molecular Liquids. 437 (2025): 128687 <a href="{{ base_path }}/files/006_2025Kim-Molecular dynamics underlying the regulation of a gas hydrate by amylose.pdf" target="_blank">(PDF)</a>
 
 <div style="margin-bottom: 10px;"></div>
